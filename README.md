@@ -1,5 +1,10 @@
 ### Olá, sou o Gustavo Maisatto!!
 
+<ul>
+  <li>🔥Estudante de programação</li>
+  <li>🔥No momento estou estudando javascript.</li>
+  </ul>
+
 <div>
   <a href="https://github.com/gustavomaisatto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomaisatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
