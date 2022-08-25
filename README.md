@@ -1,8 +1,9 @@
 ### Olá, sou o Gustavo Maisatto!!
 
 <ul>
-  <li>🔥Estudante de programação</li>
-  <li>🔥No momento estou estudando javascript.</li>
+  <li>🔥Estagiário @rocky.monks</li>
+  <li>🔥Experiência em Javascript (React, Node)</li>
+  <li>🔥No momento estudando Java</li>
   </ul>
 
 <div>
