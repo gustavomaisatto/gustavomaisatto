@@ -1,24 +1,24 @@
-### Olá, sou o Gustavo Maisatto!!
+<h1 align="center"> 👋 Hi, I'm Gustavo Maisatto</h1>
 
-<ul>
-  <li>🔥Estagiário @rocky.monks</li>
-  <li>🔥Experiência em Javascript (React, Node)</li>
-  <li>🔥No momento estudando Java</li>
-  </ul>
+<img src="https://user-images.githubusercontent.com/87456011/214689477-57dfc8d7-c470-4735-b9ff-5526802ce5f1.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
-<div>
-  <a href="https://github.com/gustavomaisatto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomaisatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomaisatto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<p align="left"> 
+Sou um Desenvolvedor Web full-stack e tenho muita curiosidade na área de Tecnologia, estou sempre em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disposto a ajudar e a aprender algo novo. 
+</p>
+
+- :zap: Main language: <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
+  ######
+- :bulb: Frontend: <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"> <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript"> <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=ts" Title="TypeScript"> <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react" Title="React.js"> <img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents" Title="Styled Components">
+  ######
+- 📡 Backend: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"> <img align="center" alt="Eduardo-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite" Title="sqlite">
+  ######
+
   
-  
-</div>
+
+<p align="left" >
+  <a href="https://www.linkedin.com/in/gustavomaisatto" alt="Linkedin">
+  <img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>
   <hr>
 <div> 
   <a href="https://instagram.com/gustavoenrico1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
