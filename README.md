@@ -3,8 +3,10 @@
 <img src="https://user-images.githubusercontent.com/87456011/214689477-57dfc8d7-c470-4735-b9ff-5526802ce5f1.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
 <p align="left"> 
-Sou um Desenvolvedor Web full-stack e tenho paixão pela área de Tecnologia, estou sempre em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disposto a ajudar e a aprender algo novo. 
+Sou um Desenvolvedor full-stack, atualmente trabalho construindo soluções internas na Media.monks como technology analyst.
 </p>
+<p align="left">Sou apaixonado por tecnologia, e desenvolvimento web, gosto de participar de todo o ciclo de criação, desde a prototipação da solução até a construção de apis, backend e frontend.</p>
+<p align="left">Também gosto de trabalhar com dados que é uma das vertentes do meu trabalho.</p>
 
 - :zap: Main language: <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
